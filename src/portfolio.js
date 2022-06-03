@@ -8,10 +8,11 @@ const header = {
     title: 'ABOUT',
     description:
       'I want to be part of a friendly and professional team where I can develop my skills. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
-    resume: 'https://drive.google.com/file/d/1ZG6HkR57GIlToiFPBkH3pq-0FY95up7a/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1qpKIypVRN8hm8i30uAgHZgu6zFcl2maq/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/olehkobrynovych',
       github: 'https://github.com/OlehKobrynovych',
+      upwork: 'https://www.upwork.com/freelancers/~015155dd65199c5c2b',
     },
     education: 'Ivan Franko National University of Lviv: Faculty of Economic Cybernetics',
     specialist: "Bachelor's Diploma / Specialist Diploma"

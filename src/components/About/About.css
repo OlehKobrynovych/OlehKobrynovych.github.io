@@ -15,6 +15,10 @@
     font-size: 1rem;
     max-width: 600px;
   }
+
+  .about__desc-desc{
+    text-indent: 1rem;
+  }
   
   .about__desc,
   .about__contact {
