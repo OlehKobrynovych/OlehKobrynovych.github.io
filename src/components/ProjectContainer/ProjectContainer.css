@@ -10,6 +10,11 @@
     transform: translateY(-7px);
   }
   
+  .project__foto {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
   .project__description {
     margin-top: 1em;
   }
@@ -31,4 +36,11 @@
   .project .link--icon {
     margin-left: 0.5em;
   }
-  
+  .project__btnWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .project__demobtn {
+    margin-left: 8px;
+  }

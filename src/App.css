@@ -28,6 +28,7 @@ main {
   max-width: 1100px;
   width: 95%;
   margin: 0 auto;
+  padding-top: 70px;
 }
 
 .section {
@@ -119,17 +120,6 @@ main {
 .btn--outline:hover:before,
 .btn--outline:focus:before {
   right: 0;
-}
-
-.btn--plain {
-  text-transform: initial;
-  background-color: var(--clr-bg-alt);
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
-  border: 0;
-}
-
-.btn--plain:hover {
-  transform: translateY(-4px);
 }
 
 .btn--icon {

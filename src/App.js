@@ -16,7 +16,7 @@ function App() {
     <div id='top' className={`${themeName} app`}>
       <Header />
 
-      <main>
+      <main id='about'>
         <About />
         <Projects />
         <Skills />

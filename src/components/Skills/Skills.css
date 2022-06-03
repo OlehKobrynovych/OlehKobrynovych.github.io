@@ -1,13 +1,30 @@
 .skills__list {
-    max-width: 450px;
-    width: 95%;
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  
-  .skills__list-item {
-    margin: 0.5em;
-  }
+  max-width: 450px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skills__list-title {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 23px;
+  text-transform: uppercase;
+}
+
+.skills__list-item {
+  margin: 0.5em;
+  display: block;
+  padding: 0.8em 1.4em;
+  font-weight: 500;
+  font-size: 0.9rem;
+  text-transform: lowercase;
+  transition: transform 0.2s ease-in-out;
+  text-transform: initial;
+  background-color: var(--clr-bg-alt);
+  box-shadow: rgba(0, 0, 0, 35%) 0px 3px 3px 0px;
+  border: 0;
+}
   

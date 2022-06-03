@@ -4,7 +4,7 @@ import WbSunnyOutlinedIcon from '@mui/icons-material/WbSunnyOutlined';
 import Brightness3Icon from '@mui/icons-material/Brightness3';
 import CloseIcon from '@mui/icons-material/Close';
 import { ThemeContext } from '../../contexts/theme'
-import { projects, skills, contact } from '../../portfolio'
+import { projects, skillsProgram, contact } from '../../portfolio'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -22,6 +22,18 @@ const Navbar = () => {
         {projects.length ? (
           <li className='nav__list-item'>
             <a
+              href='#about'
+              onClick={toggleNavList}
+              className='link link--nav'
+            >
+              About
+            </a>
+          </li>
+        ) : null}
+
+        {projects.length ? (
+          <li className='nav__list-item'>
+            <a
               href='#projects'
               onClick={toggleNavList}
               className='link link--nav'
@@ -31,7 +43,7 @@ const Navbar = () => {
           </li>
         ) : null}
 
-        {skills.length ? (
+        {skillsProgram.length ? (
           <li className='nav__list-item'>
             <a
               href='#skills'

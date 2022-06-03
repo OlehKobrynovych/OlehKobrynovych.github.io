@@ -5,7 +5,7 @@
   }
   
   .footer__link {
-    font-size: 0.9rem;
+    font-size: 16px;
     font-weight: 600;
     color: var(--clr-fg);
   }
