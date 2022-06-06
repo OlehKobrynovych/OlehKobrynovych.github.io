@@ -4,7 +4,7 @@ const header = {
   }
   
   const about = {
-    name: 'Oleg Kobrynovych',
+    name: 'Oleh Kobrynovych',
     title: 'ABOUT',
     description:
       'I want to be part of a friendly and professional team where I can develop my skills. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
