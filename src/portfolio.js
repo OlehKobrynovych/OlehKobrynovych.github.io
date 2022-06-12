@@ -79,6 +79,16 @@ const header = {
       sourceCode: 'https://github.com/OlehKobrynovych/React_films_API_Redux',
       livePreview: 'https://OlehKobrynovych.github.io/React_films_API_Redux',
     },
+    {
+      id: 7,
+      name: 'Project 7',
+      foto: './img/FileManager.png',
+      description:
+        'Unfinished demonstration project to improve skills.',
+      stack: ['React', 'Moment', 'Prop-types', 'Material UI', 'LocalStorage'],
+      sourceCode: 'https://github.com/OlehKobrynovych/React_FileManager',
+      livePreview: 'https://OlehKobrynovych.github.io/React_FileManager',
+    },
   ]
   
   const skillsProgram = [
@@ -106,7 +116,7 @@ const header = {
     'Ukrainian - (Native)',
     'Russian - (Full)',
     'Polish - (Full)',
-    'English - (Limited)',
+    'English - (Pre-Intermediate)',
   ]
   const skillsPersonal = [
     'Motivated',
