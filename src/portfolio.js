@@ -8,7 +8,7 @@ const header = {
     title: 'ABOUT',
     description:
       'I want to be part of a friendly and professional team where I can develop my skills. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
-    resume: 'https://drive.google.com/file/d/14Zg9VgvidsyDLsPebeGOPkxRnhxvz3Ab/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/17_7741C4K4Iuvu4hjCOvrO5MpEC3Bbwo/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/olehkobrynovych',
       github: 'https://github.com/OlehKobrynovych',
