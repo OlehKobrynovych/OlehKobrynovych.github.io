@@ -89,8 +89,18 @@ const header = {
       sourceCode: 'https://github.com/OlehKobrynovych/React_FileManager',
       livePreview: 'https://OlehKobrynovych.github.io/React_FileManager',
     },
+    {
+      id: 8,
+      name: 'Project 8',
+      foto: './img/Mozgi.png',
+      description:
+        'Demonstration animation project for advanced training.',
+      stack: ['React', 'React-router', 'React-spring/web', 'Material UI', 'Gsap'],
+      sourceCode: 'https://github.com/OlehKobrynovych/React_Mozgi_Animation',
+      livePreview: 'https://OlehKobrynovych.github.io/React_Mozgi_Animation',
+    },
   ]
-  
+   
   const skillsProgram = [
     'HTML',
     'CSS',
