@@ -7,8 +7,8 @@ const header = {
     name: 'Oleh Kobrynovych',
     title: 'ABOUT',
     description:
-      'I want to be part of a friendly and professional team where I can develop my skills. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
-    resume: 'https://drive.google.com/file/d/12ywqDrANExCX6eeZEsmmPyqBm-ogAFNw/view?usp=sharing',
+      'I am an front-end developer passionate about innovation and high quality software. I want to be part of a friendly and professional team where I can develop my skills. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
+    resume: 'https://drive.google.com/file/d/1qpKIypVRN8hm8i30uAgHZgu6zFcl2maq/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/olehkobrynovych',
       github: 'https://github.com/OlehKobrynovych',
@@ -104,22 +104,26 @@ const header = {
   const skillsProgram = [
     'HTML',
     'CSS',
+    'SASS/LESS',
     'JavaScript',
     'React',
-    'Vue',
     'Redux',
-    'SASS/LESS',
+    'Vue',
+    'Vuex',
     "Nuxt.js",
+    "Node.js",
   ]
   const skillsFrameworks = [
     'Bootstrap',
     'Material UI',
+    'Semantic UI',
   ]
   const skillsOther = [
     'Git/GitHub',
     'REST API',
     'Gulp',
     'Webpack',
+    'Laravel Mix',
     'Photoshop',
     'Figma',
   ]
