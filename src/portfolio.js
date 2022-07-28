@@ -111,6 +111,9 @@ const header = {
     'Vue',
     'Vuex',
     "Nuxt.js",
+    "Next.js(Beginner)",
+    "SQL/MySQL(Beginner)",
+    "TypeScript(Beginner)",
     "Node.js",
   ]
   const skillsFrameworks = [
