@@ -8,7 +8,7 @@ const header = {
     title: 'ABOUT',
     description:
       'I am an front-end developer passionate about innovation and high quality software. I want to be part of a friendly and professional team where I can develop my skills. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
-    resume: 'https://drive.google.com/file/d/1eS9piJ2qh2B_nIPWbgp-1TTlMUkJAW3C/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1G9xqieQaJwO_36peDmyYRtQY8u41B3_N/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/olehkobrynovych',
       github: 'https://github.com/OlehKobrynovych',
