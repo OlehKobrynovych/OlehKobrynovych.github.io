@@ -99,6 +99,16 @@ const header = {
       sourceCode: 'https://github.com/OlehKobrynovych/React_Mozgi_Animation',
       livePreview: 'https://OlehKobrynovych.github.io/React_Mozgi_Animation',
     },
+    {
+      id: 9,
+      name: 'Project 9',
+      foto: './img/train.png',
+      description:
+        'Demonstration project for advanced training..',
+      stack: ['React', 'Redux', 'Material UI', 'PropTypes'],
+      sourceCode: 'https://github.com/OlehKobrynovych/React_Train_Schedule',
+      livePreview: 'https://OlehKobrynovych.github.io/React_Train_Schedule',
+    },
   ]
    
   const skillsProgram = [
