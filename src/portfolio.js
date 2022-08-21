@@ -7,7 +7,7 @@ const header = {
     name: 'Oleh Kobrynovych',
     title: 'ABOUT',
     description:
-      'I am an front-end developer passionate about innovation and high quality software. I want to be part of a friendly and professional team where I can develop my skills. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
+      'I am an front-end developer passionate about innovation and high quality software. I can develop web applications or implement new features / views, maintain, optimize, and debug existing applications. To achieve team results, I am ready to put 100% of my strength.',
     resume: 'https://drive.google.com/file/d/1G9xqieQaJwO_36peDmyYRtQY8u41B3_N/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/olehkobrynovych',
@@ -21,7 +21,7 @@ const header = {
   const projects = [
     {
       id: 1,
-      name: 'Project 1',
+      name: 'Project',
       foto: './img/ReactGame.png',
       description:
         'Zeros and crosses - players take turns marking gaps in the 3 on 3 grid. The player who manages to place three of their marks in a horizontal, vertical or diagonal row, wins the game.',
@@ -31,7 +31,7 @@ const header = {
     },
     {
       id: 2,
-      name: 'Project 2',
+      name: 'Project',
       foto: './img/Pets.png',
       description:
         'Adaptive web design of web pages from a PSD file, using flexbox, on a program like Figma.',
@@ -41,7 +41,7 @@ const header = {
     },
     {
       id: 3,
-      name: 'Project 3',
+      name: 'Project',
       foto: './img/Innovated.png',
       description:
         'Adaptive web design of web pages from a PSD file, using flexbox, on a program like Figma.',
@@ -51,7 +51,7 @@ const header = {
     },
     {
       id: 4,
-      name: 'Project 4',
+      name: 'Project',
       foto: './img/Todos.png',
       description:
         'To-do list This program will perform the following functions: display current tasks, allow you to add new tasks through the input field, delete tasks.',
@@ -61,7 +61,7 @@ const header = {
     },
     {
       id: 5,
-      name: 'Project 5',
+      name: 'Project',
       foto: './img/StarWar.png',
       description:
         'React_StarWar API - You will have access to approximately hundreds of characters, images, locations and episodes.',
@@ -71,7 +71,7 @@ const header = {
     },
     {
       id: 6,
-      name: 'Project 6',
+      name: 'Project',
       foto: './img/Films.png',
       description:
         'Rick and Morty API - You will have access to approximately hundreds of characters, images, locations and episodes. ',
@@ -81,7 +81,7 @@ const header = {
     },
     {
       id: 7,
-      name: 'Project 7',
+      name: 'Project',
       foto: './img/FileManager.png',
       description:
         'Unfinished demonstration project to improve skills.',
@@ -91,7 +91,7 @@ const header = {
     },
     {
       id: 8,
-      name: 'Project 8',
+      name: 'Project',
       foto: './img/Mozgi.png',
       description:
         'Demonstration animation project for advanced training.',
@@ -101,7 +101,7 @@ const header = {
     },
     {
       id: 9,
-      name: 'Project 9',
+      name: 'Project',
       foto: './img/train.png',
       description:
         'Demonstration project for advanced training..',
@@ -109,7 +109,7 @@ const header = {
       sourceCode: 'https://github.com/OlehKobrynovych/React_Train_Schedule',
       livePreview: 'https://OlehKobrynovych.github.io/React_Train_Schedule',
     },
-  ]
+  ].reverse();
    
   const skillsProgram = [
     'HTML',
@@ -117,14 +117,15 @@ const header = {
     'SASS/LESS',
     'JavaScript',
     'React',
-    'Redux',
+    'Redux(Toolkit/Thunk)',
+    'React Router',
     'Vue',
     'Vuex',
     "Nuxt.js",
     "Next.js(Beginner)",
-    "SQL/MySQL(Beginner)",
+    "Node.js(Beginner)",
     "TypeScript(Beginner)",
-    "Node.js",
+    "SQL/MySQL(Beginner)",
   ]
   const skillsFrameworks = [
     'Bootstrap',
@@ -134,6 +135,7 @@ const header = {
   const skillsOther = [
     'Git/GitHub',
     'REST API',
+    'BEM (CSS)',
     'Gulp',
     'Webpack',
     'Laravel Mix',
