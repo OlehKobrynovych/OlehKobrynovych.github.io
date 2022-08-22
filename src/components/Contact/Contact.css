@@ -1,4 +1,13 @@
 .contact {
     flex-direction: column;
-  }
+}
+.contact-link-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 15px;
+}
+.contact-link__title {
+  margin-right: 10px;
+}
   
