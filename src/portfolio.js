@@ -109,6 +109,16 @@ const header = {
       sourceCode: 'https://github.com/OlehKobrynovych/React_Train_Schedule',
       livePreview: 'https://OlehKobrynovych.github.io/React_Train_Schedule',
     },
+    {
+      id: 10,
+      name: 'Project',
+      foto: './img/Minimo.png',
+      description:
+        'Demonstration project for advanced training. Laravel_Mix ...',
+      stack: ['Html', 'Css', 'Scss', 'js', 'Swiper', 'Laravel_Mix', 'ejs' ,'ITCSS', 'Image', 'Fonts'],
+      sourceCode: 'https://github.com/OlehKobrynovych/Laravel_Mix__Minimo__2022',
+      livePreview: 'https://olehkobrynovych.github.io/Laravel_Mix__Minimo__2022/',
+    },
   ].reverse();
    
   const skillsProgram = [
